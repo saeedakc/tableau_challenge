@@ -1,0 +1,18 @@
+Dashboard 1:
+The two maps on this dashboard display the start stations and end stations in the city along with their coordinates and the name 
+of the station. 
+The exisiting start and end stations are mostly the same. There is only one ending station that is not also a starting station. 
+Because the clustering shows that there are more station on the East side of the map, it would seem that there are more riders in that
+area than in the other parts.
+
+
+Dashboard 2: 
+The two graphs display the duration of trips between the first half of the month versus the second half of the month of March 2020. 
+The first half being from the 1st to the 15th and the second half from the 16th to the 31st. 
+Looking at the two lines, there does not seem to be a clear correlation between the trip duration and time of the month, as there are
+high and low points in both halves. 
+
+
+City Official Map:
+The comparison of popular start and end stations shows that the cluster of stations on the East side of the map has a heavier use by 
+riders. 
